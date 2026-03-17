@@ -119,7 +119,7 @@ I am currently building my skills in **data-driven problem solving** and explori
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/your-username  
+- GitHub: https://github.com/adarshgyan  
 - LinkedIn: www.linkedin.com/in/adarshgyan
 
 ---
