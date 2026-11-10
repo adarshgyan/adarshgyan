@@ -3,7 +3,7 @@
 ### Mechanical Engineer | Research Enthusiast | Robotics & Automation | Product Development
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Mechanical+Engineering+Undergraduate;Exploring+Robotics+%26+Automation;Designing+%26+Building+Engineering+Solutions;Research+%7C+Manufacturing+%7C+Industry+4.0;From+India+to+Japan+%F0%9F%87%AE%F0%9F%87%B3+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Mechanical+Engineering+Undergraduate;Exploring+Data Analytics+%26+Automation;Designing+%26+Building+Engineering+Solutions;Research+%7C+Manufacturing+%7C+Industry+4.0;From+India+to+Japan+%F0%9F%87%AE%F0%9F%87%B3+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 </p>
 
 <p align="center">
